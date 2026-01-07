@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@huggingface/transformers": "^3.8.1",
-    "@modelcontextprotocol/sdk": "^1.24.3",
+    "@modelcontextprotocol/sdk": "^1.25.2",
     "better-sqlite3": "^12.5.0",
     "chokidar": "^3.6.0",
     "lru-cache": "^11.2.4",
